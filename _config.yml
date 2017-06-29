@@ -2,7 +2,7 @@ title: Ddongddong
 description: 연석이 홈페이지
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
